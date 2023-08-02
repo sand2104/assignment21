@@ -1,0 +1,8 @@
+C:\data\assignment21\assignment21\bin\Debug\assignment21.exe.config
+C:\data\assignment21\assignment21\bin\Debug\assignment21.exe
+C:\data\assignment21\assignment21\bin\Debug\assignment21.pdb
+C:\data\assignment21\assignment21\obj\Debug\assignment21.csproj.AssemblyReference.cache
+C:\data\assignment21\assignment21\obj\Debug\assignment21.csproj.SuggestedBindingRedirects.cache
+C:\data\assignment21\assignment21\obj\Debug\assignment21.csproj.CoreCompileInputs.cache
+C:\data\assignment21\assignment21\obj\Debug\assignment21.exe
+C:\data\assignment21\assignment21\obj\Debug\assignment21.pdb
